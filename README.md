@@ -4,7 +4,7 @@
 
 Build a web application that helps a person maintain to-do list(s).
 
-### Features
+## Features
 
 Your application should allow a user to:
 
