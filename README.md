@@ -1,6 +1,6 @@
 # TODO App
 
-## Objective
+### Objective
 
 Build a web application that helps a person maintain to-do list(s).
 
